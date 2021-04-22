@@ -139,7 +139,7 @@ Go to https://www.contentful.com/, login as scott@thinksmarthealth.com.au
   <li> ┃ ┣ <span class = "red"> isButton </span>            <em>  "@boolean"</em></li>
   <li> ┃ ┗ <span class = "red"> displayOrder </span>         <em> "@Int, unique" </em></li>
 </ul>
-
+```css
 <style>
 ul.contentful{
   display:block;
@@ -176,3 +176,4 @@ span.blue{
   font-size:14px;
 }
 </style>
+```
