@@ -146,7 +146,7 @@ ul.contentful{
 }
 ul.contentful li{
   width:550px;
-  list-style:none;
+  list-style:none !important;
   position:relative;
 }
 
